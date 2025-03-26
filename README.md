@@ -1,6 +1,4 @@
-## Aoba! Eu sou o Thiago Castro (Noithy) 
-Aspirante de programação e tecnologia...e nas horas vagas um artista.
-
+## Aoba! Eu sou o Thiago Castro (Noithy)
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=noithy&show_icons=true&theme=dark"
