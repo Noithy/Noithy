@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+# Sobre mim:
 Apenas um aspirante a Dev Full-stack, artista nas horas vagas e ruim no DotA 2
 
 
